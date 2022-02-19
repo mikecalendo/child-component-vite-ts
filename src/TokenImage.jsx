@@ -3,7 +3,7 @@ export default function TokenImage() {
     <span>
       &#8592;{' '}
       <a href="/">
-        <svg src="./favicon.svg" />
+        <svg src="./favicon.svg"></svg>
       </a>
     </span>
   );
